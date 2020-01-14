@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name"> </string>
+
+    //main page
+
+    <string-array name="facolty">
+        <item>Engineering</item>
+        <item>Natural sciences</item>
+        <item>Humanities and Social Sciences</item>
+        <item>Health Science</item>
+        <item>Medicine</item>
+        <item>Communication</item>
+        <item>Architecture</item>
+    </string-array>
+
+    <string-array name="DegreeEngineering">
+        <item>Electrical Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>chemical engineering</item>
+        <item>engineering industry and management</item>
+        <item>Civil Engineering</item>
+    </string-array>
+
+    <string-array name="DegreeNaturalsciences">
+        <item>Physics</item>
+        <item>Applied Mathematics</item>
+        <item>Computer Science</item>
+        <item>Molecular biology</item>
+        <item>Chemistry Sciences</item>
+    </string-array>
+
+    <string-array name="SubjectComputerSciense">
+        <item>Infinitesimal Math 1</item>
+        <item>Java</item>
+    </string-array>
+
+    <string-array name="SubjectElectricalEngineering">
+        <item>Physics</item>
+        <item>chemistry</item>
+    </string-array>
+
+    <string-array name="bookTest">
+        <item>Books</item>
+        <item>Tests</item>
+    </string-array>
+
+    <string-array name="booksComputerSciense">
+        <item>Infinitesimal Math 1 Dr Yeuda Ashkenazi</item>
+    </string-array>
+    //TestsPage
+
+    <string-array name="year">
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+    </string-array>
+
+    <string-array name="semester">
+        <item>Winter</item>
+        <item>Spring</item>
+        <item>Summer</item>
+    </string-array>
+
+    <string-array name="moed">
+        <item>A</item>
+        <item>B</item>
+        <item>Specail moed</item>
+    </string-array>
+
+    //ProfileBtn
+
+    <string-array name="profile">
+        <item>My Profile</item>
+        <item>Log Out</item>
+    </string-array>
+
+    <string-array name="managerProfile">
+        <item>My Profile</item>
+        <item>Permissions</item>
+        <item>Log Out</item>
+    </string-array>
+
+    <string-array name="email"></string-array>
+
+
+</resources>

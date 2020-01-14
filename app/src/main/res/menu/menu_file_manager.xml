@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Photo_item"
+        android:icon="@drawable/ic_ssphoto"
+        android:title="Item 1"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/Profile_item"
+        android:title="Profile"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/ManagerP_item"
+        android:title="Manager Profile"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/Requests_item"
+        android:title="Manager Requests"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Remove_item"
+        android:title="Remove Photos"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/LogOut_item"
+        android:title="Log Out"
+        app:showAsAction="never">
+
+    </item>
+
+
+</menu>
